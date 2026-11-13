@@ -1,3 +1,4 @@
+// Modified in this unofficial fork: generic AI-assistant examples; see FORK_NOTES.md.
 import { kidsDataEn, kidsDataZh } from './kids-data.js';
 
 const translations = {
@@ -7,7 +8,7 @@ const translations = {
         introTitle: "🌍 Why do we need to protect AI friends?",
         introText: `
             <p><strong>Hello, future Cyber Hero! 🛡️</strong></p>
-            <p>You've probably already talked to an AI — like <strong>ChatGPT</strong>, <strong>Gemini</strong>, or <strong>Siri</strong>! AI is like a super-smart robot brain that helps with homework, helps doctors heal people, and even helps astronauts fly rockets!</p>
+            <p>You've probably already talked to an AI — like an <strong>AI assistant</strong>! AI is like a super-smart robot brain that helps with homework, helps doctors heal people, and even helps astronauts fly rockets!</p>
             <p>But sneaky <strong>"Computer Bad Guys"</strong> are out there trying to trick AI and do bad things — so we need YOU, the <strong>Cyber Hero!</strong> Let's learn the 7 magic shield moves the world's best defenders use! 👇</p>
         `,
         toggleBtn: "中文",
@@ -21,7 +22,7 @@ const translations = {
         introTitle: "🌍 為什麼我們需要保護 AI 夥伴？",
         introText: `
             <p><strong>哈囉，AI 安全小英雄！🛡️</strong></p>
-            <p>你可能已經跟 AI 說過話了——像是 <strong>ChatGPT</strong>、<strong>Gemini</strong>，或是爸爸媽媽手機裡的語音助理！AI 就像一個超強機器人大腦，能幫我們想問題、幫醫生看病，甚至幫太空人開火箭！</p>
+            <p>你可能已經跟 AI 說過話了——像是 <strong>AI 助理</strong>或爸爸媽媽手機裡的語音助理！AI 就像一個超強機器人大腦，能幫我們想問題、幫醫生看病，甚至幫太空人開火箭！</p>
             <p>但網路上有調皮的<strong>「電腦壞人」</strong>想破壞 AI，所以我們需要你——<strong>「AI 安全小英雄！」</strong>快來學世界上最厲害的 7 招安全魔法吧！👇</p>
         `,
         toggleBtn: "English",
